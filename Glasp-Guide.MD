@@ -16,6 +16,7 @@ To install Glasp, you must create a user account with Glasp and install the Glas
 
 1. Visit [Glasp's website](https://glasp.co/) on your browser.
 2. Click "Sign up (beta)" at the top right-hand corner of your screen. This action will redirect you to the signup page.
+   ![Sign Up to Glasp](./files/glasp%20home.png)
 3. Click "Continue with Google" on the right side of the signup page to sign up. Doing this will trigger a Google authentication sign-in page.
 4. Select the Google account you want to sign in to Glasp with, or "Choose another account." Signing in will redirect you to the Glasp extension page on the Chrome Web Store.
 5. Visit [Glasp's Chrome extension page](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik/related) if you were not redirected.
