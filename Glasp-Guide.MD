@@ -31,7 +31,7 @@ To install Glasp, you must create a user account with Glasp and install the Glas
 7. Select "Add extension" in the alert on your browser. Doing this will install Glasp on your browser.
    ![Add extension](./files/add_extension.png)
 
-8. Select Glasp's extension icon in the browser's extension toolbar.
+8. Click the chrome extension icon in the browser's toolbar. This will open a dropdown list of all extensions
    ![Pin Glasp](./files/pin_glasp.png)
 
 9. Look for Glasp in the dropdown list.
@@ -40,11 +40,12 @@ To install Glasp, you must create a user account with Glasp and install the Glas
 10. Toggle the Pin icon on. Now the Glasp extension should show up on the toolbar.
     ![Pin Glasp 3](./files/pin_glasp_3.png)
 
-11. Click on Glasp's extension icon to start it. The extension referred to as the "Glasp Sidebar" should take up a small portion of the right side of your browser window. You should be already signed in. If you are not signed in, click "Log in / Sign up" to proceed and follow steps 3 and 4.
+11. Click on Glasp's extension icon to start it. The extension referred to as the "Glasp Sidebar" should take up a small portion of the right side of your browser window. You should be signed in. If you are not signed in, click "Log in / Sign up" to proceed and follow steps 3 and 4.
     ![Glasp extension open](./files/glasp_extension_open.png)
-    Glasp Sidebar signed in
-    ![glasp extension sign in](./files/)
-    Not signed in. click Log in / Sign up to proceed
+    _Glasp Sidebar signed in_
+
+    ![glasp extension sign in](./files/sign_in_glasp_ext.png)
+    _Not signed in. click Log in / Sign up to proceed_
 
 ## How To Use Glasp
 
