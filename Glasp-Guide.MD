@@ -138,8 +138,11 @@ Once you have created a highlight, you can access or perform most of the feature
 5. Select copy link to highlight to copy to your clipboard a link to the highlight
 6. Select copy highlight embed code to copy to your clipboard HTML code that you can integrate into your code, blog or newsletter
 
-`<iframe width="100%" height="315" src="https://glasp.co/highlight-embed?u=AiuA10kbaXQ6trgzPut0tnVwSif1&d=6fLhaHg0ftR1Fi8QVbd6&h=fyrb6j8o7527x3ed&m=h" title="Glasp Highlight Embed" frameborder="0"></iframe>`
-_An example of copied highlight embed code_
+```
+<iframe width="100%" height="315" src="https://glasp.co/highlight-embed?u=AiuA10kbaXQ6trgzPut0tnVwSif1&d=6fLhaHg0ftR1Fi8QVbd6&h=fyrb6j8o7527x3ed&m=h" title="Glasp Highlight Embed" frameborder="0"></iframe>
+```
+
+_An example of a copied highlight embed code_
 
 ### Tag Highlights
 
@@ -199,13 +202,13 @@ Open Glasp settings by right-clicking the Glasp icon in your browser's extension
 
 Alternatively, open the Glasp extension by clicking the settings icon at the bottom right side and selecting "User Settings." You can adjust the extension's theme, copy format, language, and more from the settings.
 ![click settings](./files/settings.png)
-![click settings](./files/settings_3.png)
+![click settings](./files/settings_2.png)
 
-## Glasp Shortcomings
+## Glasp's Shortcomings
 
 Despite all of its great features, at the time of publishing this guide, Glasp has some limitations you should be aware of. They include:
 
-- You cannot share highlights directly to other social media platforms besides Twitter from the Glasp sidebar or popup menu.
+- Inability to share highlights directly to other social media platforms besides Twitter from the Glasp sidebar or popup menu.
 - Glasp will not work on specific domains, including domains from major platforms like Google, Instagram, your Glasp profile page, other note-taking apps, and more. In addition, Glasp will not work with your local PDF documents.
 - There is no tight integration with other note-taking, research, and referencing applications. Although there are tutorials on Glasp's website for [sharing highlights to Notion, Roam Research, and Obsidian](https://glasp.co/welcome#:~:text=Glasp%20with%20Obsidian,with%20Roam%20Research), they only teach you how to copy and paste from their platform to the other. There is tighter integration with [Readwise](https://medium.com/glasp/tutorial-how-to-export-web-highlights-into-readwise-2311e85ccaca).
 - Glasp's extension does not work offline. You will need an internet connection to utilize Glasp.
