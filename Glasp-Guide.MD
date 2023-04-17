@@ -6,6 +6,25 @@ When visiting websites, how often do you feel the need to take note of informati
 
 Enter [Glasp](https://glasp.co/), a social highlighter extension available on Chrome and MacOS. With Glasp, you no longer have to switch to a different app to highlight and save a quote or take note of something you saw on a site. Even more, Glasp wants to remedy "knowledge isolation" and allows you to share your findings, highlights, and quotes through Glasp's social feature. This guide intends to walk you through how to install and set up Glasp and how you can take advantage of its features. The rest of the article is structured thus:
 
+- How To Setup Glasp on Chrome
+  - Sign Up and Install Glasp
+  - How to Pin Glasp to Your Extension Toolbar
+- How To Use Glasp
+  - Setup Your Home Feed
+  - Save Text or Quote to Glasp
+  - Add A Note to Highlight Text
+  - Create An Image of The Highlighted Text
+  - Share Highlights Directly on Twitter
+  - Delete Highlight from The Webpage
+  - Take Note, Delete Highlight, Quoteshot, Share to Twitter, Copy Link to Highlight, Copy Highlight Embed Code from The Glasp Extension
+  - Tag Highlights
+  - Sort Through Your Highlights with Tags
+  - Summarize Text
+  - Copy All Highlights from A Website
+  - Adjust Settings
+- Glasp Shortcomings
+- Conclusion
+
 ## How To Setup Glasp on Chrome
 
 This section will show you how to sign up and install Glasp's web browser extension and how to pin the extension to your browser's extension toolbar for easy access. You will need a Google account to sign up for Glasps service. Also, to use Glasp, you must install it as an extension or add-on to your browser. Currently, Glasp is compatible with desktop versions of Safari, Google Chrome, brave browser, or Microsoft Edge. Glasp should work on other Chrome-based browsers like Opera and Vivaldi. Note that this guide focuses on using Glasp on Chromium-based browsers and may not be effective for Safari.
@@ -74,7 +93,7 @@ The Profile Page is where you can find all your highlights in one place. The ["H
 
 The most crucial feature of the Glasp extension is highlighting and saving quotes or text you find interesting on a website. Also, saving text or quotes on Glasp allows you to perform other actions on your saved quotes. To save a quote
 
-1. Highlight text on a website as you usually would
+1. ==Highlight text== on a website as you usually would
    ![highlight text](./files/highlight.png)
 
 2. Select the color of choice from the menu that pops up. This will save the text to your Glasp profile
