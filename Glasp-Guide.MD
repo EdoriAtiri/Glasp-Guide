@@ -218,3 +218,9 @@ Despite all of its great features, at the time of publishing this guide, Glasp h
 - Glasp's extension does not work offline. You will need an internet connection to utilize Glasp.
 - Glasp is not available on Mozilla Firefox. The developers mention that they will work on an [add-on for Mozilla Firefox](https://blog.glasp.co/faqs/#:~:text=As%20of%20December%2015th%2C%202022%2C%20the%20answer%20is%20no.%20We%20have%20the%20extension%20for%20Chrome%2C%20Brave%2C%20Microsoft%20Edge%2C%20Safari%2C%20Opera%2C%20and%20Vivaldi.%20We%27re%20going%20to%20develop%20it%20for%20Firefox%2C%20but%20we%20cannot%20guarantee%20when%20it%27ll%20be%20released%2C%20so%20please%20bear%20with%20us).
 - You can only sign up for Glasp with a Google account.
+
+## Conclusion
+
+Glasp is a clever web browser extension that allows you to highlight, save and add notes to quotes and texts directly on a website. With Glasp, you can eliminate the need to switch between applications or websites to keep track of relevant information. Glasp’s social features promote knowledge sharing and collaboration, making it an excellent tool for students, researchers, and professionals. Its features are impressive even if you are a casual user.
+
+The guide provides steps to set up and use Glasp. In addition, this guide presents the major features of the Glasp extension. These features include setting up your home feed, saving text or quotes to Glasp, adding notes to highlighted texts, and creating images from those highlights. Despite some shortcomings, Glasp makes it easy to stay organized, collaborate with others, and gain and share insights.
