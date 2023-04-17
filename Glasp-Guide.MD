@@ -57,10 +57,10 @@ Pinning the Glasp extension to the browser will enable easy access to the Glasp 
 1. Click the chrome extension icon in the browser's toolbar. This will open a dropdown list of all extensions
    ![Pin Glasp](./files/pin_glasp.png)
 
-2. Look for Glasp in the dropdown list.
+2. Look for Glasp in the dropdown list
    ![Pin Glasp 2](./files/pin_glasp_2.png)
 
-3. Toggle the Pin icon on. Now the Glasp extension should show up on the toolbar.
+3. Toggle the pin icon on. Now the Glasp extension should show up on the toolbar
    ![Pin Glasp 3](./files/pin_glasp_3.png)
 
 4. Click on Glasp's extension icon to start it. The extension referred to as the "Glasp Sidebar" should take up a small portion of the right side of your browser window. You should be signed in. If you are not signed in, click _Log in / Sign up_ to proceed and follow steps 3 and 4 in _Sign Up and Install Glasp_.
