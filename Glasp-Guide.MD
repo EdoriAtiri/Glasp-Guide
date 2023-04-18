@@ -8,12 +8,10 @@ When visiting websites, how often do you feel the need to take note of informati
 
 Enter [Glasp](https://glasp.co/), a social highlighter extension available on Chrome and MacOS. With Glasp, you no longer have to switch to a different app to highlight and save a quote or take note of something you saw on a site. Even more, Glasp wants to remedy "knowledge isolation" and allows you to share your findings, highlights, and quotes through Glasp's social feature. This guide intends to walk you through how to install and set up Glasp and how you can take advantage of its features. The rest of the article is structured thus:
 
-- [Getting Started with Glasp on Chrome - A Comprehensive Guide](#getting-started-with-glasp-on-chrome---a-comprehensive-guide)
-  - [Introduction to Glasp](#introduction-to-glasp)
-  - [How To Setup Glasp on Chrome](#how-to-setup-glasp-on-chrome)
+- [How To Setup Glasp on Chrome](#how-to-setup-glasp-on-chrome)
     - [Sign Up and Install Glasp](#sign-up-and-install-glasp)
     - [How to Pin Glasp to Your Extension Toolbar](#how-to-pin-glasp-to-your-extension-toolbar)
-  - [How To Use Glasp](#how-to-use-glasp)
+- [How To Use Glasp](#how-to-use-glasp)
     - [Your Glasp Profile Page](#your-glasp-profile-page)
     - [Save Text or Quote to Glasp](#save-text-or-quote-to-glasp)
     - [Add A Note to Highlighted Text](#add-a-note-to-highlighted-text)
@@ -26,8 +24,8 @@ Enter [Glasp](https://glasp.co/), a social highlighter extension available on Ch
     - [Summarize Text](#summarize-text)
     - [Copy All Highlights from A Website](#copy-all-highlights-from-a-website)
     - [Adjust Settings](#adjust-settings)
-  - [Glasp's Shortcomings](#glasps-shortcomings)
-  - [Conclusion](#conclusion)
+- [Glasp's Shortcomings](#glasps-shortcomings)
+- [Conclusion](#conclusion)
 
 ## How To Setup Glasp on Chrome
 
