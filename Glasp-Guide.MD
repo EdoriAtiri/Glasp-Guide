@@ -4,14 +4,16 @@
 
 ## Introduction to Glasp
 
-When visiting websites, how often do you feel the need to take note of information that strikes a chord on such sites for future reference? Taking note of such content would usually see you use a different application or service like Evernote, Google Keep, Notion, Obsidian, or something similar. While organizing your points and thoughts this way works, it can be a rather tedious and unintuitive procedure. What if you could highlight quotes, leave notes, and save specific points on a website directly on the site without leaving your browser or visiting a different website or app?
+When visiting websites, how often do you feel the need to take note of information that strikes a chord for future reference? Taking note of such content would usually see you use a different application or service like Evernote, Google Keep, Notion, Obsidian, or something similar. While organizing your points and thoughts this way works, it can be a rather tedious and unintuitive procedure. What if you could highlight quotes, leave notes, and save specific points on a website directly on the site without leaving your browser or visiting a different website or app?
 
 Enter [Glasp](https://glasp.co/), a social highlighter extension available on Chrome and MacOS. With Glasp, you no longer have to switch to a different app to highlight and save a quote or take note of something you saw on a site. Even more, Glasp wants to remedy "knowledge isolation" and allows you to share your findings, highlights, and quotes through Glasp's social feature. This guide intends to walk you through how to install and set up Glasp and how you can take advantage of its features. The rest of the article is structured thus:
 
-- [How To Setup Glasp on Chrome](#how-to-setup-glasp-on-chrome)
+- [Getting Started with Glasp on Chrome - A Comprehensive Guide](#getting-started-with-glasp-on-chrome---a-comprehensive-guide)
+  - [Introduction to Glasp](#introduction-to-glasp)
+  - [How To Setup Glasp on Chrome](#how-to-setup-glasp-on-chrome)
     - [Sign Up and Install Glasp](#sign-up-and-install-glasp)
     - [How to Pin Glasp to Your Extension Toolbar](#how-to-pin-glasp-to-your-extension-toolbar)
-- [How To Use Glasp](#how-to-use-glasp)
+  - [How To Use Glasp](#how-to-use-glasp)
     - [Your Glasp Profile Page](#your-glasp-profile-page)
     - [Save Text or Quote to Glasp](#save-text-or-quote-to-glasp)
     - [Add A Note to Highlighted Text](#add-a-note-to-highlighted-text)
@@ -22,10 +24,11 @@ Enter [Glasp](https://glasp.co/), a social highlighter extension available on Ch
     - [Tag Highlights](#tag-highlights)
     - [Sort Through Your Highlights with Tags](#sort-through-your-highlights-with-tags)
     - [Summarize Text](#summarize-text)
+    - [Summarize YouTube Video](#summarize-youtube-video)
     - [Copy All Highlights from A Website](#copy-all-highlights-from-a-website)
     - [Adjust Settings](#adjust-settings)
-- [Glasp's Shortcomings](#glasps-shortcomings)
-- [Conclusion](#conclusion)
+  - [Glasp's Shortcomings](#glasps-shortcomings)
+  - [Conclusion](#conclusion)
 
 ## How To Setup Glasp on Chrome
 
@@ -243,6 +246,21 @@ Glasp has a neat feature that allows you to summarize the highlighted text. It i
    _Summarized text output_
 
 5. Click the copy or Twitter icon to copy the summary or share it on Twitter, respectively.
+
+### Summarize YouTube Video
+
+In addition to summarizing text on a website, Glasp has a tool for summarizing YouTube videos. If you do not have the time or patience to watch a video, you can still get the crux of the information you need with Glasp. To use it:
+
+1. Go to YouTube and play a video of your choice
+2. Click "Transcript and Summary." It is to the top-right side of the video you are playing.
+   ![Click "Transcript and Summary."](files/yt_summary.png)
+   _Click "Transcript and Summary"_
+
+![Summarized YouTube transcript](files/yt_summary_2.png)
+
+3. View the AI summary of the video in a new tab, jump to the video's current time, or copy the summary to a clipboard using the options at the top of the "Transcript and Summary" pane.
+   ![open in new tab, jump to current time or copy to clipboard](files/yt_summary_3.png)
+   _Open summary in new tab, jump to current time or copy to clipboard_
 
 ### Copy All Highlights from A Website
 
