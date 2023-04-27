@@ -67,11 +67,13 @@ Pinning the Glasp extension to the browser will enable easy access to the Glasp 
 
 1. Click the Chrome extension icon in the browser's toolbar. This will open a dropdown list of all extensions
    ![Pin Glasp](./files/pin_glasp.png)
+
    _Select the Chrome extension icon_
 
 2. Look for Glasp in the dropdown list
 
    ![Pin Glasp 2](./files/pin_glasp_2.png)
+
    _Identify Glasp from the dropdown list_
 
 3. Toggle the pin icon on. Now the Glasp extension should show up on the toolbar
@@ -135,7 +137,7 @@ You can add notes to text or quotes you have highlighted. To Add a note:
    _Select the note-writing icon_
 
 3. Add a comment in the text box underneath the highlight in the Glasp extension. Glasp automatically saves the text
-   ![Add a note to highlight](./files/add_note.png)
+   ![Add a note to highlight](./files/add_note2.png)
    _Input a comment in the text box_
 
 4. Use Shift and enter on your keyboard to start a new line of text
@@ -287,8 +289,10 @@ Alternatively, open the Glasp extension by clicking the settings icon at the bot
 _Alternate way of opening glasp settings: Click settings icon_
 
 ![click settings](./files/settings_2.png)
-_Settings Page
-_
+_Alternate way of opening glasp settings: Click User Setting from menu_
+
+![Glasp user settings](files/glasp_user_settings.png)
+_Glasp's user settings page_
 
 ## Glasp's Shortcomings
 
